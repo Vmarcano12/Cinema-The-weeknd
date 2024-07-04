@@ -1,0 +1,11 @@
+C:\Users\LABPC\Documents\Visual Studio 2013\Projects\WindowsApplication1 Cinema\WindowsApplication1 Cinema\bin\Debug\WindowsApplication1 Cinema.exe.config
+C:\Users\LABPC\Downloads\WindowsApplication1 Cinema\WindowsApplication1 Cinema\bin\Debug\WindowsApplication1 Cinema.exe.config
+C:\Users\LABPC\Downloads\WindowsApplication1 Cinema\WindowsApplication1 Cinema\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\LABPC\Downloads\WindowsApplication1 Cinema\WindowsApplication1 Cinema\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\LABPC\Downloads\WindowsApplication1 Cinema\WindowsApplication1 Cinema\obj\Debug\WindowsApplication1 Cinema.vbproj.GenerateResource.Cache
+C:\Users\LABPC\Downloads\WindowsApplication1 Cinema\WindowsApplication1 Cinema\bin\Debug\WindowsApplication1 Cinema.exe
+C:\Users\LABPC\Downloads\WindowsApplication1 Cinema\WindowsApplication1 Cinema\bin\Debug\WindowsApplication1 Cinema.pdb
+C:\Users\LABPC\Downloads\WindowsApplication1 Cinema\WindowsApplication1 Cinema\bin\Debug\WindowsApplication1 Cinema.xml
+C:\Users\LABPC\Downloads\WindowsApplication1 Cinema\WindowsApplication1 Cinema\obj\Debug\WindowsApplication1 Cinema.exe
+C:\Users\LABPC\Downloads\WindowsApplication1 Cinema\WindowsApplication1 Cinema\obj\Debug\WindowsApplication1 Cinema.xml
+C:\Users\LABPC\Downloads\WindowsApplication1 Cinema\WindowsApplication1 Cinema\obj\Debug\WindowsApplication1 Cinema.pdb
